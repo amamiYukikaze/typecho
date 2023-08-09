@@ -45,4 +45,3 @@ $db->addServer(array (
   'engine' => 'MyISAM',
 ), Typecho_Db::READ | Typecho_Db::WRITE);
 Typecho_Db::set($db);
->
