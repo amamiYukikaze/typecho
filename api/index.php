@@ -10,3 +10,4 @@ else
     require_once __DIR__ . '/../index.php';
 }
 #echo $_SERVER["PHP_SELF"];
+>
