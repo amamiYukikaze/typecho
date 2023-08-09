@@ -36,7 +36,7 @@ Typecho_Common::init();
 /** 定义数据库参数 */
 $db = new Typecho_Db('Pdo_Mysql', 'typecho_');
 $db->addServer(array (
-  'host' => 'containers-us-west-176.railway.app',
+  'host' => 'https://containers-us-west-176.railway.app/',
   'user' => 'root',
   'password' => 'BA985BWWIZKJQCdpNpgh',
   'charset' => 'utf8mb4',
