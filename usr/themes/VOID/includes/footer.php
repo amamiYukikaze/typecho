@@ -17,7 +17,7 @@ $setting = $GLOBALS['VOIDSetting'];
                     <p>感谢陪伴：<span id="uptime"></span></p>
                 </section>
                 <section>
-                    <p>Powered by <a href="http://typecho.org/">Typecho</a> • <a href="https://blog.imalan.cn/archives/247/">Theme VOID</a></p>
+                    <p>Powered by <a href="http://typecho.org/">Typecho</a></p>
                     <p><?php echo $setting['footer']; ?></p>
                 </section>
             </div>
